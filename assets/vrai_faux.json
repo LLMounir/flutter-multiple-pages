@@ -1,0 +1,228 @@
+[
+    {
+        "question": "[La Belle et la bête] \n Belle adore lire",
+        "answer": true
+    },
+    {
+        "question": "[Blanche neige et les 7 nains] \n Blanche neige n'a pas peur de la fôret",
+        "answer": false
+    },
+    {
+        "question": "[La belle au bois dormant] \n Pimprenelle veut que la robe soit bleu",
+        "answer": true
+    },
+    {
+        "question": "[La ferme se rebelle] \n Maguy est la nouvelle vache",
+        "answer": true
+    },
+    {
+        "question": "[Pinocchio] \n Pinocchio est devenu un enfant",
+        "answer": true
+    },
+    {
+        "question": "[Les 101 dalmatiens] \n Pongo et Perdita ont 101 chiots",
+        "answer": false
+    },
+    {
+        "question": "[Rox et Rouky] \n Rox est le chien",
+        "answer": false
+    },
+    {
+        "question": "[Les aristochats] \n Roquefort est la souris",
+        "answer": true
+    },
+    {
+        "question": "Blanche-Neige est la seule à ne pas changer de coiffure dans son film",
+        "answer": false,
+        "explanation": "Les princesses qui ne changent pas de coiffures : Blanche-Neige, Aurore et Merida"
+    },
+    {
+        "question": "Merida est la seule princesse Pixar",
+        "answer": true
+        
+    },
+    {
+        "question": "Mélodie est la seule princesse venant de la terre et de la mer",
+        "answer": true,
+        "explanation": "Son père est un humain, il vient de la terre et sa mère était une sirène à la base, elle vient donc de la mer. Résultat, Mélodie est la princesse venant à la fois de la terre et de la mer. En plus tout est dit dans la première chanson"
+    },
+    {
+        "question": "Ariel est la première princesse qui a chanté une chanson pendant son film",
+        "answer": false,
+        "explanation": "La première princesse qui a chanté une chanson pendant son film est Blanche-Neige"
+    },
+    {
+        "question": "[La Reine des Neiges] \n Anna a 15 ans",
+        "answer": false,
+        "explanation": "Anna a 18 ans"
+    },
+    {
+        "question": "Kida a 8800 ans",
+        "answer": true
+    },
+    {
+        "question": "Cendrillon est la troisième princesse à avoir été créée par les studios de Walt Disney",
+        "answer": false,
+        "explanation": "Cendrillon est la deuxième princesse a avoir été créée en 1950. La troisième a avoir été créée est Aurore en 1959"
+    },
+    {
+        "question": "Mulan est la seule princesse sachant tirer avec un arc",
+        "answer": false,
+        "explanation": "Merida sait aussi tirer avec un arc"
+    },
+    {
+        "question": "Aurore, Vaiana et Mulan sont filles uniques",
+        "answer": true
+    },
+    {
+        "question": "Jasmine est la seule princesse a porté un pantalon",
+        "answer": false,
+        "explanation": "Mulan porte aussi un pantalon quand elle se déguise en garçon"
+    },
+    {
+        "question": "Elsa est la plus vieille des princesses Disney",
+        "answer": false,
+        "explanation": "Kida est la plus vielle princesse Disney"
+    },
+    {
+        "question": "Tiana et Pocahontas sont les seules à se transformer en un animal",
+        "answer": false,
+        "explanation": "Pocahontas ne se transforme pas en animal"
+    },
+    {
+        "question": "Dans Dumbo, la petite souris s’appelle Timon",
+        "answer": false,
+        "explanation": "Il s'appelle Timothée"
+    },
+    {
+        "question": "Dans Fantasia, les morceaux de musique sont dirigés par le chef d'orchestre Leopold Stokowski",
+        "answer": true
+    },
+    {
+        "question": "Dans La Belle et le Clochard, Tante Sarah est propriétaire de deux siamois",
+        "answer": true
+    },
+    {
+        "question": "Le conte de Pinocchio a été inspiré par Carlo Collodi",
+        "answer": true
+    },
+    {
+        "question": "Dans la Belle au Bois Dormant, quand Aurore se pique le doigt, elle porte une robe bleue",
+        "answer": true
+    },
+    {
+        "question": "Le Roi Lion est sorti en 1996",
+        "answer": false,
+        "explanation": "Il est sorti en 1994"
+    },
+    {
+        "question": "Dans Peter Pan, pour se rendre au Pays Imaginaire, il faut courir",
+        "answer": false,
+        "explanation": "Il faut voler bien sûr !"
+    },
+    {
+        "question": "Bambi a un ami lapin appelé Fleur",
+        "answer": false,
+        "explanation": "Fleur est un putois, le lapin s'appelle Panpan"
+    },
+    {
+        "question": "Le petit chien d'Anastasia s'appelle Mushu",
+        "answer": false,
+        "explanation": "Il s'appelle Pooka"
+    },
+    {
+        "question": "Dans le Livre de la Jungle, Kaa est le chef des éléphants",
+        "answer": false,
+        "explanation": "Kaa est le serpent"
+    },
+    {
+        "question": "Les yeux de Raiponce sont bleus",
+        "answer": false,
+        "explanation": "Ils sont verts"
+    },
+    {
+        "question": "Le gilet d'Aladdin est violet",
+        "answer": true
+    },
+    {
+        "question": "Les chaussures de Mickey sont jaunes",
+        "answer": true
+    },
+    {
+        "question": "[Peter Pan] \n La robe de Wendy est rose",
+        "answer": false,
+        "explanation": "Elle est bleue"
+    },
+    {
+        "question": "[Blanche Neige et les 7 nains] \n Simplet a un bonnet vert",
+        "answer": false,
+        "explanation": "Son bonnet est violet"
+    },
+    {
+        "question": "Blanche Neige a un noeud bleu dans les cheveux",
+        "answer": false,
+        "explanation": "Son noeud est rouge"
+    },
+    {
+        "question": "Raiponce a les cheveux longs",
+        "answer": true
+    },
+    {
+        "question": "Minnie a un noeud rouge dans les cheveux",
+        "answer": true,
+        "explanation": "Il est rouge avec des points blancs"
+    },
+    {
+        "question": "Ariel a les cheveux roux",
+        "answer": true
+    },
+    {
+        "question": "Raiponce est née dans la tour de la sorcière",
+        "answer": false,
+        "explanation": "Elle est née au château"
+    },
+    {
+        "question": "Dans Rebelle, la mère se transforme en ours",
+        "answer": true
+    },
+    {
+        "question": "Le vrai nom de Flynn Rider est Eugène Fitzerbert",
+        "answer": true
+    },
+    {
+        "question": "Le rêve de Raiponce est de nager avec les dauphins",
+        "answer": false
+    },
+    {
+        "question": "Raiponce est le 101e film Disney",
+        "answer": true
+    },
+    {
+        "question": "Dumbo est une giraffe",
+        "answer": false,
+        "explanation": "C'est un éléphant"
+    },
+    {
+        "question": "Pocahontas a un collier beige",
+        "answer": false,
+        "explanation": "Il est bleu"
+    },
+    {
+        "question": "Rebelle se passe en Ecosse",
+        "answer": true
+    },
+    {
+        "question": "[Reine des Neiges] \n Elsa est l'ainée",
+        "answer": true
+    },
+    {
+        "question": "Yasmine ne porte pas de boucles d'oreilles",
+        "answer": false
+    },
+    {
+        "question": "[Blanche Neige et les Nains] \n Grincheux a un bonnet vert",
+        "answer": false,
+        "explanation": "Il est marron"
+    }
+    
+]
